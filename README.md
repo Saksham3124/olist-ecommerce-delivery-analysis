@@ -6,7 +6,8 @@ End-to-end SQL analysis of Brazil's largest e-commerce dataset (100,000+ orders)
 
 ---
 
-png
+![Dashboard Preview](Olist Deliverry Analysis.png)
+
 
 ---
 
