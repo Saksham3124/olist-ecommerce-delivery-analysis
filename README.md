@@ -1,5 +1,10 @@
 # 🛒 Olist E-Commerce: Delivery Performance & Risk Analysis
 
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=tableau&logoColor=white)
+![Dataset](https://img.shields.io/badge/Dataset-100K%2B_Orders-brightgreen?style=flat)
+
 End-to-end SQL analysis of Brazil's largest e-commerce dataset (100,000+ orders) to identify delivery failures, geographic risk patterns, revenue at risk, and seller-level accountability gaps.
 
 **[📊 Live Tableau Dashboard →](https://public.tableau.com/app/profile/kumar.saksham2703/viz/OlistDeliveryPerformanceAnalysis_17789432992130/OlistDeliverryAnalysis)**
